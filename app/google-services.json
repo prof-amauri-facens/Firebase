@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726783907323",
+    "project_id": "aulafinalautenticacaofirebase",
+    "storage_bucket": "aulafinalautenticacaofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726783907323:android:34ef04d9a5592d433d275e",
+        "android_client_info": {
+          "package_name": "br.facens.aula.aulafinalautenticacaofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotTi4ytD8nosZIwKLACA4ta7ylBEU5hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
